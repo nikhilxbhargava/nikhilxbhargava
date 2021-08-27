@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikhilxbhargava
-- 👀 I’m a student at UIUC studying Econometrics and Quant Economics
-- 📫 Reach me at xitainb (at )gmail (dot) com
+- 👀 I’m a student at UIUC studying Econometrics and Quantitative Economics
 
 <!---
 nikhilxbhargava/nikhilxbhargava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
