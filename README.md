@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhilxbhargava
+- 👋 Hi, I’m Nik (@nikhilxbhargava)
 - 👀 I’m a student at UIUC studying Econometrics and Quantitative Economics
 
 <!---
