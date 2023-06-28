@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Nik (@nikhilxbhargava)
-- 👀 I’m a student at UIUC studying Econometrics and Quantitative Economics
+- 👋 Econometrics/CS @ UIUC Graduate
 
 <!---
 nikhilxbhargava/nikhilxbhargava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
